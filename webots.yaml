@@ -1,0 +1,5 @@
+type: demo
+animation:
+  worlds:
+    - file: worlds/mundo.wbt
+      duration: 10
